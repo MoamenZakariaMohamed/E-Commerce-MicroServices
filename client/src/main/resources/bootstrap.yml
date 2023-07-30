@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      uri: https://github.com/my-username/my-config-repo.git
+      label: main
+      profile: development
