@@ -1,4 +1,3 @@
-# E-Commerce-MicroServices
 
 # E-Commerce Microservices Application
 
